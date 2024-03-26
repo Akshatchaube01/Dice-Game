@@ -1,0 +1,16 @@
+.player {
+    text-align: center;
+    margin: 0 20px;
+  }
+  
+  .player-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px; /* Add margin below the player name */
+  }
+  
+  .player-score {
+    font-size: 16px;
+  }
+  
+  
